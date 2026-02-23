@@ -98,7 +98,8 @@ Convert model to a REST API (FastAPI)
 Connect to a true frontend (React / Tailwind)
 Deploy entire system with backend + frontend
 
-👩‍💻 Author:
+👩‍💻 Author - 
 Srinidhi
 Aspiring Data Scientist | Machine Learning Enthusiast
+
 
