@@ -43,7 +43,6 @@ The churn prediction model is trained using:
 | Recall        | 59.5%      |
 | F1 Score      | 63.6%      |
 
-*(Replace with your final actual scores if different)*
 
 ---
 
@@ -101,5 +100,6 @@ Deploy entire system with backend + frontend
 👩‍💻 Author - 
 Srinidhi
 Aspiring Data Scientist | Machine Learning Enthusiast
+
 
 
